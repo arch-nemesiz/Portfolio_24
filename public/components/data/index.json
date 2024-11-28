@@ -1,0 +1,60 @@
+{
+  "shortName": "Rahul",
+  "name": "Rahul R",
+  "heroData": {
+    "roles": [
+      "Coder",
+      "Web Developer"
+      
+    ],
+    "intro": "Young male, with a fresh perspective and eagerness to learn and grow. Seeking opportunities to kick-start career journey. Strong communication and problem-solving skills. Enthusiastic team player with a passion for making a positive impact. Ready to embark on professional development and contribute to a dynamic work environment.",
+    "cvPath": "/components/resume/Rahul__Resume.pdf",
+    "videoLink": "",
+    "heroImgPath": "/images/u2-1.jpg",
+    "heroAvatarPath": "/images/u2.png"
+  },
+  "aboutMeData": {
+    "intro": "I bring a fresh perspective and a strong eagerness to learn and grow. I'm seeking opportunities to launch my career journey where I can apply my strong communication and problem-solving skills. As an enthusiastic team player, I thrive in collaborative environments and am passionate about making a positive impact. I am ready to contribute to a dynamic workplace, embrace professional development, and bring energy and dedication to every challenge I face. My goal is to grow within an organization that values innovation and teamwork, while consistently delivering value. ",
+    "cvPath": "/components/resume/Rahul__Resume.pdf",
+    "aboutImgPath": "",
+    "aboutAvatarPath": "/images/about-21.png"
+  },
+  "servicesData": {
+    "frontendData": "I offer frontend development services, specializing in building responsive and user-friendly interfaces for e-commerce websites using React. My skills include creating seamless user experiences, optimizing performance, and ensuring cross-platform compatibility. Whether you're looking to enhance your website's design or build a new platform from scratch, I can deliver solutions tailored to your needs.",
+    "backendData": "I use Firebase for backend development, offering scalable solutions for e-commerce websites. With features like real-time database management, user authentication, and cloud storage, I ensure seamless integration and high performance for your platform.",
+    "fullstackData": "Although my career commenced as a full-stack developer, project requirements prompted me to pivot and intensify my focus on frontend development. Presently, I am adept at contributing to both frontend and backend development as per project demands, leveraging my proficiency in JavaScript and TypeScript."
+  },
+  "projectsData": [
+    {
+      "imgPath": "/images/p1.png",
+      "code": "https://github.com/arch-nemesiz/ReactJS-EcommerceStore",
+      "video": "https://www.awesomescreenshot.com/video/33988303?key=1183231c7b18f85c81564d0cd70cb3c4"
+    }
+  ],
+  "revsData": [
+    {
+      "imgPath": "/images/sinan01.jpeg",
+      "name": "Muhammad Sinan M",
+      "role": "Software Developer at CareStack",
+      "desc": "During college, Rahul consistently impressed me with his technical expertise, problem-solving abilities, and collaborative spirit. He excelled in software development projects, demonstrating a deep understanding of concepts and the ability to create innovative solutions. Rahul’s leadership and teamwork skills were remarkable, fostering productivity and trust in every group project. His commitment to learning and mentoring others made him a standout among peers. I’m confident Rahul will thrive as a software developer, bringing value and excellence to any team he joins.",
+      "starRating": 5
+    },
+    {
+      "imgPath": "/images/nibin1.jpeg",
+      "name": "Nibin Fasel KV",
+      "role": "Software Developer at UST",
+      "desc": "During our college years, Rahul consistently demonstrated exceptional software development skills and a knack for problem-solving. He was a dependable teammate who fostered collaboration and inspired everyone to give their best. Rahul’s dedication, technical expertise, and supportive nature make him a great asset to any team.",
+      "starRating": 5
+    }
+  ],
+  "contactMeData": {
+    "info": "I'm currently exploring new opportunities and would love to connect! Whether you have a question or just want to say hello, feel free to reach out, and I will do my best to respond swiftly! ",
+    "github": "https://github.com/arch-nemesiz",
+    "linkedin": "https://www.linkedin.com/in/rahul-r-058701245"
+  },
+  "footerData": {
+    "address": "Menakuttil Chira(H), Arookutty, Kerala-688535",
+    "phone": "+91-7306708409",
+    "email": "rahul.retnan17@gmail.com"
+  }
+}
