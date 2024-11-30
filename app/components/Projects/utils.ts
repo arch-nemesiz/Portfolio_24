@@ -3,7 +3,6 @@ import data from "../../../public/components/data/index.json";
 export interface Project {
   imgPath: string;
   code: string;
-  demo: string;
   video: string;
   aosDelay?: number;
 }

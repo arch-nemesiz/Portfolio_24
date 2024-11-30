@@ -10,7 +10,7 @@ const Projects = () => {
       </h1>
       <div className="flex justify-center items-center">
         <div className="w-[80%] pt-[2rem] grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-[2rem]">
-          {projects.map(({ imgPath, code, demo, video, aosDelay }: Project) => (
+          {projects.map(({ imgPath, code, video, aosDelay }: Project) => (
             <div
               data-aos="fade-up"
               className="h-fit group"
@@ -30,13 +30,6 @@ const Projects = () => {
                     <button className="py-[0.5rem] px-[1rem] border-[1px] border-[#55e6a5] text-[#55e6a5] hover:border-yellow-400 hover:text-yellow-400 transition-all duration-200 text-[18px] font-bold uppercase">
                       <a target="_blank" href={code}>
                         CODE
-                      </a>
-                    </button>
-                  )}
-                  {demo && (
-                    <button className="py-[0.5rem] px-[1rem] border-[1px] border-[#55e6a5] text-[#55e6a5] hover:border-yellow-400 hover:text-yellow-400 transition-all duration-200 text-[18px] font-bold uppercase">
-                      <a target="_blank" href={demo}>
-                        DEMO
                       </a>
                     </button>
                   )}
