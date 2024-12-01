@@ -28,7 +28,7 @@ const NavBar = () => {
         <a href="#projects" className="nav-link">
           PROJECT & REVIEW
         </a>
-        <a href="#contact" className="nav-link">
+        <a href="#footer" className="nav-link">
           CONTACT
         </a>
         <div onClick={openNav}>

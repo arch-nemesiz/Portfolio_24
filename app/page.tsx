@@ -9,7 +9,6 @@ import Projects from "./components/Projects";
 import Footer from "./components/Footer";
 import RevsAndRecmnds from "./components/RevsAndRecmnds";
 import MobileNav from "./components/Navbar/MobileNav";
-import ContactUs from "./components/ContactUs";
 import { ProfileProvider } from "./contexts/context";
 import { Toaster } from "sonner";
 import AOS from "aos";
@@ -52,7 +51,6 @@ export default function Home() {
           <Projects />
           <RevsAndRecmnds />
         </div>
-        <ContactUs />
         <Footer />
       </div>
     </ProfileProvider>
