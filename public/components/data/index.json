@@ -20,7 +20,7 @@
     "aboutAvatarPath": "/images/about-21.png"
   },
   "servicesData": {
-    "frontendData": "I offer frontend development services, specializing in building responsive and user-friendly interfaces for e-commerce websites using React. My skills include creating seamless user experiences, optimizing performance, and ensuring cross-platform compatibility. Whether you're looking to enhance your website's design or build a new platform from scratch, I can deliver solutions tailored to your needs.",
+    "frontendData": "I DESIGN AND DEVELOP MACHINE LEARNING MODELS FOR TASKS SUCH AS DISEASE PREDICTION AND IMAGE CLASSIFICATION USING DEEP LEARNING (CNNs, ANNs). I WORK WITH PYTHON, SCIKIT-LEARN, AND TENSORFLOW TO BUILD DATA-DRIVEN SOLUTIONS, BACKED BY EXPLORATORY DATA ANALYSIS AND PERFORMANCE OPTIMIZATION.",
     "backendData": "I use Firebase for backend development, offering scalable solutions for e-commerce websites. With features like real-time database management, user authentication, and cloud storage, I ensure seamless integration and high performance for your platform.",
     "fullstackData": "Although my career commenced as a full-stack developer, project requirements prompted me to pivot and intensify my focus on frontend development. Presently, I am adept at contributing to both frontend and backend development as per project demands, leveraging my proficiency in JavaScript and TypeScript."
   },
